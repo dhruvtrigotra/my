@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  font-size: 15px;
+  background-color: white;
+  font-weight: 500;
+}
+
+h1 {
+  color: #1A1A40;
+  margin: 0 auto 0 auto;
+  font-family: 'Redressed', cursive;
+  font-size: 100px;
+}
+
+.h2{
+  font-size: 3.5rem;
+}
+
+.top-container {
+  background: linear-gradient(to right,
+      #495371 0%,
+      #495371 50%,
+      #E4F9F5 50%,
+      #E4F9F5 100%);
+  border-width: 0 0 8px 0;
+  border-color: seagreen;
+  border-style: solid;
+}
+
+.Hack {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  margin-left: 100px;
+}
+
+.top-cloud {
+  margin-top: 80px;
+  margin-left: 180px;
+  padding-bottom: 50px;
+}
+
+.mount {
+  margin-bottom: -8px;
+  margin-left: 70px;
+}
+
+.right-tree {
+  position: absolute;
+  left: 180px;
+  height: 250px;
+  bottom: 44px;
+}
+
+.left-tree {
+  position: absolute;
+  right: 180px;
+  height: 250px;
+  bottom: 44px;
+}
+
+.moon{
+  position: absolute;
+  height: 200px;
+  top: 20px;
+  left: 30px;
+
+}
+
+
+.sun{
+  position: absolute;
+  height: 200px;
+  top: 20px;
+  right: 30px;
+
+}
+.img{
+  height: 200px;
+  margin-top: 5px;
+}
+
+.computer{
+  width: 15%;
+}
+
+.bottom-container{
+  background-color: #FBCAFF;
+  margin-bottom:-50px;
+}
+
+.btn{
+
+
+}
+
+.bottom-container{
+  margin-top: 10px;
+
+}
